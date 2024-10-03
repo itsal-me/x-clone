@@ -19,7 +19,7 @@ This project is a **clone of the X (formerly Twitter) homepage**, focused on the
     git clone https://github.com/itsal-me/x-clone.git
     ```
 3. Navigate to the project folder.
-4. Open `index.html` in your preferred browser to view the desktop version of the clone or you will get the github pages link in the description section.
+4. Open `index.html` in your preferred browser to view the desktop version of the clone or you will get the github pages link in "About" section.
 
 ## Built With
 
