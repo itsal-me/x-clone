@@ -173,8 +173,14 @@ a{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     text-align: center;
 
+}
+
+.options .for-you h4{
+    border-bottom: 6px solid var(--primary-color);
+    padding: 16px;
 }
 
 .options > span:hover{
